@@ -110,7 +110,7 @@ const heroBanner = function ({ results: movieList }) {
             width="24"
             height="24"
             aria-hidden="true"
-            alt="play circle"
+            alt="details"
           />
           <span class="span">View Details</span>
         </a>
