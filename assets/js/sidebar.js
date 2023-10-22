@@ -37,7 +37,7 @@ export function sidebar() {
         <a href="https://github.com/gyanendra07" style="font-size:15px"><img src="https://img.icons8.com/ios-filled/25/ffffff/github.png" alt="github"/>gyanendra07</a>
         <br/>
         <!--img
-          src="./assets/images/tmdb-logo.png"
+          src="./assets/images/tmdb-logo.svg"
           alt="the movie database logo"
           width="130"
           height="17"

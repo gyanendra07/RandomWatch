@@ -106,13 +106,13 @@ const heroBanner = function ({ results: movieList }) {
 
         <a href="./detail.html" class="btn" onclick="getMovieDetail(${id})">
           <img
-            src="./assets/images/play_circle.png"
+            src="./assets/images/details.png"
             width="24"
             height="24"
             aria-hidden="true"
             alt="play circle"
           />
-          <span class="span">Watch Now</span>
+          <span class="span">View Details</span>
         </a>
       </div>
     `;
