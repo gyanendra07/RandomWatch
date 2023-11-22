@@ -66,7 +66,7 @@ fetchDataFromServer(
       videos: { results: videos },
     } = movie;
 
-    document.title = `${title} - Tvflix`;
+    document.title = `${title} - RandomWatch`;
 
     const movieDetail = document.createElement("div");
     movieDetail.classList.add("movie-detail");
