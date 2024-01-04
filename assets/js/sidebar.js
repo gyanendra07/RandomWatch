@@ -24,7 +24,6 @@ export function sidebar() {
       <div class="sidebar-list">
         <p class="title">Genre</p>
       </div>
-      <!--<div class="sidebar-list">
       <div class="sidebar-list">
         <p class="title">Language</p>
 
@@ -34,7 +33,6 @@ export function sidebar() {
 
         <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=bn", "Bengali")'>Bengali</a>
       </div>
-
       <div class="sidebar-footer">
         <p class="copyright">Copyright 2023</p>
         <a href="https://github.com/gyanendra07" style="font-size:15px"><img src="https://img.icons8.com/ios-filled/25/ffffff/github.png" alt="github"/>gyanendra07</a>
