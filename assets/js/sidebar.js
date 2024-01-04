@@ -25,6 +25,7 @@ export function sidebar() {
         <p class="title">Genre</p>
       </div>
       <!--<div class="sidebar-list">
+      <div class="sidebar-list">
         <p class="title">Language</p>
 
         <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=en", "English")'>English</a>
