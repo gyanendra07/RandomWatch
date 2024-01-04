@@ -32,12 +32,9 @@ export function sidebar() {
 
         <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=hi", "Hindi")'>Hindi</a>
 
-<<<<<<< HEAD
         <a href="./movie-list.html" menu-close class="sidebar-link" onclick='getMovieList("with_original_language=bn", "Bengali")'>Bengali</a>
       </div>
-=======
-      </div>-->
->>>>>>> d7f073bb770acc6f9558d7cce421f708a0f190fc
+
       <div class="sidebar-footer">
         <p class="copyright">Copyright 2023</p>
         <a href="https://github.com/gyanendra07" style="font-size:15px"><img src="https://img.icons8.com/ios-filled/25/ffffff/github.png" alt="github"/>gyanendra07</a>
